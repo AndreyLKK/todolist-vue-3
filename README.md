@@ -1,24 +1,3 @@
-# todolist-vue-3
+Этот проект представляет собой полностью функциональное приложение для списка задач (ToDoList), разработанное с использованием Vue 3. Пользователь может добавлять, удалять и отмечать задачи как выполненные. Все изменения сохраняются в localStorage браузера для обеспечения сохранения данных между сеансами. Это приложение предоставляет удобный и простой способ управления задачами в повседневной жизни.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This project is a fully functional task list application (ToDoList) developed using Vue 3. The user can add, delete and mark tasks as completed. All changes are saved to the browser's localStorage to ensure data persistence between sessions. This application provides a convenient and easy way to manage tasks in your daily life.
